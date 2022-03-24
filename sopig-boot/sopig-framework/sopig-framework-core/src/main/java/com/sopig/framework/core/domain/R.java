@@ -1,11 +1,10 @@
-package com.sopig.framework.common.domain;
+package com.sopig.framework.core.domain;
 
-import com.sopig.framework.common.constants.CommonConstants;
+import com.sopig.framework.core.constants.CommonConstants;
 import lombok.*;
 import lombok.experimental.Accessors;
 
 import java.io.Serializable;
-import java.util.HashMap;
 
 /**
  * Created by dongxie on 2022/3/24.

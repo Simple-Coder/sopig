@@ -1,4 +1,4 @@
-package com.sopig.framework.common.enums;
+package com.sopig.framework.core.enums;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

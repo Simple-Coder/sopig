@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>sopig-common</artifactId>
+    <artifactId>sopig-framework-core</artifactId>
     <name>${project.artifactId}</name>
     <description>定义基础 pojo 类、枚举、工具类等等</description>
     <dependencies>

@@ -1,4 +1,4 @@
-package com.sopig.framework.common.exception;
+package com.sopig.framework.core.exception;
 
 import lombok.Data;
 

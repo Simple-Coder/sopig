@@ -13,7 +13,8 @@
 
     <artifactId>sopig-framework</artifactId>
     <modules>
-        <module>sopig-common</module>
+        <module>sopig-framework-core</module>
+        <module>sopig-framework-data</module>
     </modules>
 
 

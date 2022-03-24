@@ -1,4 +1,4 @@
-package com.sopig.framework.common.constants;
+package com.sopig.framework.core.constants;
 
 /**
  * Created by dongxie on 2022/3/24.
